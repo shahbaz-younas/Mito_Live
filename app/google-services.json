@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137229397758",
+    "firebase_url": "https://mito-video-call-default-rtdb.firebaseio.com",
+    "project_id": "mito-video-call",
+    "storage_bucket": "mito-video-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137229397758:android:df51a2edefb63f8994bfaf",
+        "android_client_info": {
+          "package_name": "com.detech.Mito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137229397758-o12qptv3hhigird403p4asanuhr12vvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.detech.Mito",
+            "certificate_hash": "19e607259b621f1b6ca47c33fc548146f55c4646"
+          }
+        },
+        {
+          "client_id": "137229397758-nb3cdfcgugrj4snufvb4ph4pv1dr8hi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__IcEhHq7Qp7kdNiQNUlcpi7i0UjGJ0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137229397758-nb3cdfcgugrj4snufvb4ph4pv1dr8hi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
